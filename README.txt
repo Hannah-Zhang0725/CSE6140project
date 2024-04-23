@@ -46,5 +46,7 @@ Codes
         │   large_scale_trace
         │   small_scale_sol
         |   small_scale_trace
-        └───
+        |   small_scale_LS1
+        └───large_scale_LS1
+
 
